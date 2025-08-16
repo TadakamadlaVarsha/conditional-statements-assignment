@@ -1,8 +1,8 @@
 let plan="silver";
 let attends=25;
 let paymentmethod="upi";
-let cashback=300;
-monthlyfee=2000;
+let cashback=0;
+let monthlyfee=2000;
 if(plan==="gold"){
     if(attends>20){
         if(paymentmethod="upi"){
